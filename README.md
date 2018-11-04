@@ -11,7 +11,7 @@ Curated list of TF related stuff
 
 1. (EN) [Free monad or tagless final? How not to commit to a monad too early - Adam Warski](https://www.youtube.com/watch?v=IhVdU4Xiz2U) by [@adamw](https://github.com/adamw)
 1. (EN) [Advanced Tagless Final - Saying farewell to Free (Luka Jacobowitz)](https://www.youtube.com/watch?v=E9iRYNuTIYA) by [@LukaJCB](https://github.com/LukaJCB)
-1. (RU) (Coming soon) Современное ФП с Tagless Final - Олег Нижник by [@Odomontois](https://github.com/Odomontois)
+1. (RU) (Coming soon) Современное ФП с Tagless Final - Олег Нижников by [@Odomontois](https://github.com/Odomontois)
 
 # Projects
 
