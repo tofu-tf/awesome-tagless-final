@@ -3,9 +3,12 @@ Curated list of TF related stuff
 
 # Posts
 
-1. (EN) [Typed final (tagless-final) style](http://okmij.org/ftp/tagless-final/index.html) by Oleg Kiselyov
-1. (EN) [Introduction to Tagless final](https://www.beyondthelines.net/programming/introduction-to-tagless-final/)
-1. (EN) [Exploring Tagless Final pattern for extensive and readable Scala code](https://blog.scalac.io/exploring-tagless-final.html)
+- (EN) [Typed final (tagless-final) style](http://okmij.org/ftp/tagless-final/index.html) by Oleg Kiselyov
+- (EN) [Introduction to Tagless final](https://www.beyondthelines.net/programming/introduction-to-tagless-final/)
+- (EN) [Exploring Tagless Final pattern for extensive and readable Scala code](https://blog.scalac.io/exploring-tagless-final.html)
+- (EN) Optimizing Tagless Final - Saying Farewell to Free by [@LukaJCB](https://github.com/LukaJCB)
+  - [Part 1](https://typelevel.org/blog/2017/12/27/optimizing-final-tagless.html)
+  - [Part 2](https://typelevel.org/blog/2018/06/27/optimizing-tagless-final-2.html)
 
 # Talks
 
