@@ -16,7 +16,7 @@ Curated list of TF related stuff
 1. (EN) [Free monad or tagless final? How not to commit to a monad too early – Adam Warski](https://www.youtube.com/watch?v=IhVdU4Xiz2U) by [@adamw](https://github.com/adamw)
 1. (EN) [Advanced Tagless Final – Saying farewell to Free (Luka Jacobowitz)](https://www.youtube.com/watch?v=E9iRYNuTIYA) by [@LukaJCB](https://github.com/LukaJCB)
 1. (RU) [Современное ФП с Tagless Final – Олег Нижников](https://www.youtube.com/watch?v=sWEtnq0ReZA) by [@Odomontois](https://github.com/Odomontois)
-1. (EN) [Recursion: schemes, algebras, finally tagless, data types by Alexander Konovalov](https://www.youtube.com/watch?v=q_xPKaAcWtI)
+1. (EN) [Recursion: schemes, algebras, finally tagless, data types](https://www.youtube.com/watch?v=q_xPKaAcWtI) by [Alexander Konovalov](https://github.com/alexknvl)
 1. (EN) [Edmund Noble—Data, and when not to use it](https://www.youtube.com/watch?v=q6JCvdMWtmo)
 
 # Projects
