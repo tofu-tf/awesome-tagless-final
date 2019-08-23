@@ -9,12 +9,15 @@ Curated list of TF related stuff
 - (EN) Optimizing Tagless Final - Saying Farewell to Free by [@LukaJCB](https://github.com/LukaJCB)
   - [Part 1](https://typelevel.org/blog/2017/12/27/optimizing-final-tagless.html)
   - [Part 2](https://typelevel.org/blog/2018/06/27/optimizing-tagless-final-2.html)
+- (EN) [Tagless unions in scala 2.12 by Oleg Nizhnik](https://medium.com/@odomontois/tagless-unions-in-scala-2-12-55ab0100c2ff)
 
 # Talks
 
 1. (EN) [Free monad or tagless final? How not to commit to a monad too early – Adam Warski](https://www.youtube.com/watch?v=IhVdU4Xiz2U) by [@adamw](https://github.com/adamw)
 1. (EN) [Advanced Tagless Final – Saying farewell to Free (Luka Jacobowitz)](https://www.youtube.com/watch?v=E9iRYNuTIYA) by [@LukaJCB](https://github.com/LukaJCB)
 1. (RU) [Современное ФП с Tagless Final – Олег Нижников](https://www.youtube.com/watch?v=sWEtnq0ReZA) by [@Odomontois](https://github.com/Odomontois)
+1. (EN) [Recursion: schemes, algebras, finally tagless, data types](https://www.youtube.com/watch?v=q_xPKaAcWtI) by [Alexander Konovalov](https://github.com/alexknvl)
+1. (EN) [Edmund Noble—Data, and when not to use it](https://www.youtube.com/watch?v=q6JCvdMWtmo)
 
 # Projects
 
