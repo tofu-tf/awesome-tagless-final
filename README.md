@@ -19,6 +19,9 @@ Curated list of TF related stuff
 1. (EN) [Recursion: schemes, algebras, finally tagless, data types – Alexander Konovalov](https://www.youtube.com/watch?v=q_xPKaAcWtI) by [@alexknvl](https://github.com/alexknvl)
 1. (EN) [Data, and when not to use it – Edmund Noble](https://www.youtube.com/watch?v=q6JCvdMWtmo)
 
+# Libraries
+1. [ToFu – Functional programming toolkit by Tinkoff scala team aimed at taming the complexity of Tagless Final approach](https://github.com/TinkoffCreditSystems/tofu)
+
 # Projects
 
 1. [Scala Pet Store](https://github.com/pauljamescleary/scala-pet-store)
