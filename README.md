@@ -13,12 +13,15 @@ Curated list of TF related stuff
 
 # Talks
 
-1. (EN) [Free monad or tagless final? How not to commit to a monad too early – Adam Warski](https://www.youtube.com/watch?v=IhVdU4Xiz2U) by [@adamw](https://github.com/adamw)
-1. (EN) [Advanced Tagless Final – Saying farewell to Free (Luka Jacobowitz)](https://www.youtube.com/watch?v=E9iRYNuTIYA) by [@LukaJCB](https://github.com/LukaJCB)
-1. (RU) [Современное ФП с Tagless Final – Олег Нижников](https://www.youtube.com/watch?v=sWEtnq0ReZA) by [@Odomontois](https://github.com/Odomontois)
-1. (EN) [Recursion: schemes, algebras, finally tagless, data types – Alexander Konovalov](https://www.youtube.com/watch?v=q_xPKaAcWtI) by [@alexknvl](https://github.com/alexknvl)
-1. (EN) [Data, and when not to use it – Edmund Noble](https://www.youtube.com/watch?v=q6JCvdMWtmo)
-1. (RU) [Tofu и его окружение](https://www.youtube.com/watch?v=oNMCLMap2bo) by Kirill Shelopugin
+## English
+1. [Free monad or tagless final? How not to commit to a monad too early – Adam Warski](https://www.youtube.com/watch?v=IhVdU4Xiz2U) by [@adamw](https://github.com/adamw)
+1. [Advanced Tagless Final – Saying farewell to Free (Luka Jacobowitz)](https://www.youtube.com/watch?v=E9iRYNuTIYA) by [@LukaJCB](https://github.com/LukaJCB)
+1. [Recursion: schemes, algebras, finally tagless, data types – Alexander Konovalov](https://www.youtube.com/watch?v=q_xPKaAcWtI) by [@alexknvl](https://github.com/alexknvl)
+1. [Data, and when not to use it – Edmund Noble](https://www.youtube.com/watch?v=q6JCvdMWtmo)
+
+## Russian
+1. [Современное ФП с Tagless Final – Олег Нижников](https://www.youtube.com/watch?v=sWEtnq0ReZA) by [@Odomontois](https://github.com/Odomontois)
+1. [Tofu и его окружение](https://www.youtube.com/watch?v=oNMCLMap2bo) by Kirill Shelopugin
 
 # Libraries
 1. [ToFu – Functional programming toolkit by Tinkoff scala team aimed at taming the complexity of Tagless Final approach](https://github.com/TinkoffCreditSystems/tofu)
