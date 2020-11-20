@@ -18,6 +18,7 @@ Curated list of TF related stuff
 1. (RU) [Современное ФП с Tagless Final – Олег Нижников](https://www.youtube.com/watch?v=sWEtnq0ReZA) by [@Odomontois](https://github.com/Odomontois)
 1. (EN) [Recursion: schemes, algebras, finally tagless, data types – Alexander Konovalov](https://www.youtube.com/watch?v=q_xPKaAcWtI) by [@alexknvl](https://github.com/alexknvl)
 1. (EN) [Data, and when not to use it – Edmund Noble](https://www.youtube.com/watch?v=q6JCvdMWtmo)
+1. (RU) [Tofu и его окружение](https://www.youtube.com/watch?v=oNMCLMap2bo) by Kirill Shelopugin
 
 # Libraries
 1. [ToFu – Functional programming toolkit by Tinkoff scala team aimed at taming the complexity of Tagless Final approach](https://github.com/TinkoffCreditSystems/tofu)
