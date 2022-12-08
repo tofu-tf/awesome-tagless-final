@@ -18,6 +18,7 @@ Curated list of TF related stuff
 1. [Advanced Tagless Final – Saying farewell to Free (Luka Jacobowitz)](https://www.youtube.com/watch?v=E9iRYNuTIYA) by [@LukaJCB](https://github.com/LukaJCB)
 1. [Recursion: schemes, algebras, finally tagless, data types – Alexander Konovalov](https://www.youtube.com/watch?v=q_xPKaAcWtI) by [@alexknvl](https://github.com/alexknvl)
 1. [Data, and when not to use it – Edmund Noble](https://www.youtube.com/watch?v=q6JCvdMWtmo)
+1. [A Few Things You Always Wanted to Know About Tagless-Final – Juan Manuel Serrano](https://www.youtube.com/watch?v=gPHo6moN9Uk)
 
 ## Russian
 1. [Современное ФП с Tagless Final – Олег Нижников](https://www.youtube.com/watch?v=sWEtnq0ReZA) by [@Odomontois](https://github.com/Odomontois)
